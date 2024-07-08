@@ -1,0 +1,9 @@
+.SectionWrap {
+  margin: 0 auto;
+}
+
+.SectionTitle {
+  text-align: center;
+  font-size: 40px;
+  letter-spacing: 2px;
+}
